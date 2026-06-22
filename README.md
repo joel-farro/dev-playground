@@ -1,8 +1,5 @@
-# dev-playground
-Proyectos Iniciales
+# Dev-Playground
+Bienvenido a mi repositorio personal de pruebas, donde cada archivo/carpeta puede ser un miniproyectos en curso.
+Puedes dejar alguna sugerencia en la sección de "issues".
 
-Mi primer cambio local para cargar en github
-
-Mi primer cambio en github para descargar en local
-
-Cambios desde mi rama local ubicados en developer01
+Have a nice day...😎
